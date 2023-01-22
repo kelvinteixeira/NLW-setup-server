@@ -14,12 +14,12 @@ https://github.com/kelvinteixeira/NLW-setup-mobile
 
 ## Tecnologias usadas:
 
-- React
-- Vite
-- Tailwind
-- Radix
+- NodeJs
+- Fastfy
+- Typescript
+- Prisma
 - Dayjs
-- clsx
+- Zod
 
 #### <div align="center">Aplicação desenvolvida por mim. Gostou? tem alguma sugestão de melhoria? por favor, entre em contato e ja me adiciona. :D
 
