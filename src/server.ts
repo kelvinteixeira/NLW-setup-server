@@ -8,7 +8,7 @@ app.register(cors)
 app.register(appRoutes)
 
 app.listen({
-  port: 3000
+  port: 3333
 }).then(() => {
-  console.log("Server is listeing in port http://localhost:3000")
+  console.log("Server is listeing in port http://localhost:3333")
 })
